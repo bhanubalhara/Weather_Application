@@ -32,4 +32,3 @@ A simple weather forecast web application that provides real-time weather data a
 - Setup instructions
   -Clone this repositry:
   git clone https://github.com/bhanubalhara/Weather_Application.git
-  cd Weather_App
