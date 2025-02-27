@@ -1,5 +1,3 @@
-# Weather Application
-
 # Weather Forecast App
 
 A simple weather forecast web application that provides real-time weather data and a 5-day forecast using the OpenWeather API.
